@@ -30,4 +30,4 @@
 如果你有任何问题、建议，或涉及侵权问题，请通过以下方式联系我：
 
 - 邮箱: xianyuapi@protonmail.com
-- GitHub Issues: [GitHub Issues](https://github.com/yourusername/xianyu_spider_api/issues)
+- GitHub Issues: [[GitHub Issues](https://github.com/yourusername/xianyu_spider_api/issues)]
