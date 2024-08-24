@@ -1,5 +1,3 @@
----
-
 # Xianyu Spider API
 
 ![Xianyu Data](https://github.com/user-attachments/assets/d0b2109e-ddaf-43e3-bcfa-190625afc31e)
@@ -50,7 +48,3 @@
 
 - 邮箱: xianyuapi@protonmail.com
 - GitHub Issues: [GitHub Issues](https://github.com/yourusername/xianyu_spider_api/issues)
-
----
-
-这样，`README` 文件的声明部分现在分层次地突出，确保法律风险和责任声明更加明确。
