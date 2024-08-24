@@ -9,7 +9,8 @@
 项目提供了一个简洁的界面来展示爬取的数据效果，你可以通过以下链接查看效果演示视频：
 [闲鱼数据效果演示](https://youtu.be/LL1ilLlo-7Q)
 
-![Xianyu Data](https://github.com/user-attachments/assets/d0b2109e-ddaf-43e3-bcfa-190625afc31e)
+![Xianyu Data](https://github.com/user-attachments/assets/9c6f712e-6b7c-4e1e-99a3-29171af40c6c)
+
 
 ## API 说明
 
